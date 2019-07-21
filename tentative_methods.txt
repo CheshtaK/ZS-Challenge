@@ -1,0 +1,3 @@
+logistic regression
+SVM
+Neural networks

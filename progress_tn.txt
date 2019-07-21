@@ -1,0 +1,2 @@
+power of shot and distance of shot - SVM (39.13) and RF(39.28)
+adding remaining time - SVM(22.43) and RF(39.25)
